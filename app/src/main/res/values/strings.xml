@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ex2_2</string>
+    <string name="mu_wall">Change Wallpaper</string>
+    <string name="mu_color">Change Color</string>
+    <string name="wall_a">Wallpaper A</string>
+    <string name="wall_b">Wallpaper B</string>
+    <string name="wall_c">Wallpaper C</string>
+    <string name="color_y">Yellow</string>
+    <string name="color_b">Blue</string>
+    <string name="color_r">Red</string>
+
+</resources>

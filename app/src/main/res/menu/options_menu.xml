@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/mu_wall"
+        android:title="@string/mu_wall">
+        <menu>
+            <item
+                android:id="@+id/wall_a"
+                android:title="@string/wall_a" />
+            <item
+                android:id="@+id/wall_b"
+                android:title="@string/wall_b" />
+            <item
+                android:id="@+id/wall_c"
+                android:title="@string/wall_c" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/mu_color"
+        android:title="@string/mu_color">
+        <menu>
+
+         <item
+              android:id="@+id/color_y"
+              android:title="@string/color_y" />
+         <item
+              android:id="@+id/color_b"
+              android:title="@string/color_b" />
+          <item
+              android:id="@+id/color_r"
+              android:title="@string/color_r" />
+        </menu>
+    </item>
+</menu>
